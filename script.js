@@ -1,34 +1,3 @@
-Skip to content
- Enterprise
-Search or jump to…
-Pull requests
-Issues
-Explore
- 
-@KareemD123 
-Flex-322
-/
-hw5-array-methods
-Public
-forked from Staging-322/hw6-array-methods
-0
-0
-135
-Code
-Pull requests
-Projects
-Wiki
-Security
-Insights
-Settings
-hw5-array-methods/script.js
-@esin87
-esin87 Update script.js
-Latest commit ecb0200 on Oct 1, 2020
- History
- 1 contributor
-57 lines (46 sloc)  2.08 KB
-   
 // For this assignment, you should not delete any of the starter code or data.
 // You should fill in the arrow callback function that each iteration
 // method needs to meet each questions's criteria.
@@ -85,13 +54,4 @@ const developersArray = [
   python: 3
 }
 */
-const devLanguageCounts = developersArray.reduce(() => {}, {});
-© 2022 GitHub, Inc.
-Help
-Support
-API
-Training
-Blog
-About
-GitHub Enterprise Server 3.3.8
-Loading complete
+
